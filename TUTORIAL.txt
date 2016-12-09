@@ -1,0 +1,9 @@
+== TUTORIAL ==
+
+1 - ABRA O CMD
+2 - DIGITE OS SEGUINTES CODIGOS
+3 - CODIGOS :
+
+cd Desktop
+cd Pack Script
+eco.py http://www.site-aqui.com
